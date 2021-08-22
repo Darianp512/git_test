@@ -1,1 +1,0 @@
-This is Darian's first Git project!
